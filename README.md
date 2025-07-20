@@ -11,3 +11,8 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+Next.js loads the route /
+
+Tailwind styles the layout and spacing
+
+Shadcn Button gives you a nice pre-styled button component
